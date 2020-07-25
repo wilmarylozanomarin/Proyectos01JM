@@ -1,3 +1,8 @@
+/* Wilmary Lozano Marin
+	27877699
+	01JM
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<conio.h>
